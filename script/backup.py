@@ -11,7 +11,6 @@ import subprocess
 import time
 from ConfigParser import SafeConfigParser
 import smtplib
-import mimetypes
 import email
 import email.mime.application
 
