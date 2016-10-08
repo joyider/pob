@@ -1,14 +1,7 @@
 #!/usr/bin/python2.7
 # -*- coding: utf-8 -*-
 # POB (c) 2016 by Andre Karlsson<andre.karlsson@protractus.se>
-#
-# POB is licensed under a
-# Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
-#
-# You should have received a copy of the license along with this
-# work.  If not, see <http://creativecommons.org/licenses/by-nc-nd/3.0/>
-#
-#
+
 # Filename: backup by: andrek
 # Timesamp: 2016-04-08 :: 20:43
 
